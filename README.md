@@ -3,7 +3,7 @@ Android mobile app which simulates Car Rental - **Side Project**
 
 **Software:** Android Studio, Adobe XD<br>
 **Language:** Java<br>
-**Designed By:** Jenil Vekaria
+**Designed By:** Esther Mbonoka 
 
 **Description**<br>
 For CPS510-Database System we chose to do Car Rental topic and we designed a Java GUI for it. 
